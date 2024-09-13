@@ -12,13 +12,13 @@ Features
   
 - Completed: Users can mark tasks as completed, and the button will change from "Complete" to "Completed." Once completed, a task cannot be edited or marked as incomplete again.
   
-- Notifications: Users are shown notifications for various actions (e.g., task added, task edited, task not changed, etc.).
+- Notifications: Users are shown notifications for various actions (task added, task edited, task not changed).
   
 - Persistent Data: All tasks are saved to `localStorage`, ensuring tasks persist even after page reloads.
   
 
 Technologies Used
 
-HTML,  CSS,  JavaScript,  FontAwesome (for icons)
+HTML,  CSS,  JavaScript,  FontAwesome 
 
 live demo: 
