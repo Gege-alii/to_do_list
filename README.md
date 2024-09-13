@@ -21,4 +21,4 @@ Technologies Used
 
 HTML,  CSS,  JavaScript,  FontAwesome 
 
-live demo: 
+live demo: https://gege-alii.github.io/to_do_list/
